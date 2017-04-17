@@ -1,0 +1,8 @@
+recipes:
+  - sprout-tmate
+node_attributes:
+    sprout:
+      tmate:
+        uri: https://github.com/tmate-io/tmate/releases/download
+        checksum: ffb2e75e9f58cb082f6cabb6e0a4794b0e22b037dc82abc3bc7ee8f376f44e23
+        version: 2.2.1
